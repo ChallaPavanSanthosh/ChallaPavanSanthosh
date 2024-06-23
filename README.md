@@ -3,7 +3,7 @@
 
 <!-- Typing :Denvercoder1-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calluna&color=3C38F7&background=090906F2&center=true&lines=Data+Scientist+%26%26+ML+Expert"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calluna&color=3C38F7&background=090906F2&center=true&lines=Data+Analyst"></a>
 </p>
 
 
@@ -19,14 +19,13 @@
 
 <h2 align="center"><img src="img/Pink And Green Motivation Quote LinkedIn Banner.gif"></h2>
 
-
+<!---
 - 👋 Hi, I’m @ChallaPavanSanthosh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 ChallaPavanSanthosh/ChallaPavanSanthosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
