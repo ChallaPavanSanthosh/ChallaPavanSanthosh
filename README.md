@@ -1,11 +1,4 @@
-<img align="right" src="https://visito-badge.laobi.icu/badge?page_id=ChallaPavanSanthosh.ChallaPavanSanthosh" />
-
-<h1 align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Pavan+Santhosh;"/>
-</h1>
-
-<h2 align="center">Hi, Challa Pavan Santhosh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h1 align="center">Hi, Challa Pavan Santhosh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 
 <!-- Typing :Denvercoder1-->
